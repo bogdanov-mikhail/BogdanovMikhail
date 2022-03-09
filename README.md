@@ -1,5 +1,4 @@
 # BogdanovMikhail
 
 Telegram: @meshariicecream
-
-My resume
+Резюме: [Резюме.pdf](https://github.com/bogdanov-mikhail/BogdanovMikhail/blob/main/Резюме.pdf)
